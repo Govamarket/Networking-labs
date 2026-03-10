@@ -1,0 +1,71 @@
+🔧 Network Infrastructure Deployment – Ebikane Farm:
+
+I recently participated in a network infrastructure installation project at Ebikane Farm, connecting the Control Center, Administrative Building, and other operational units to establish reliable communication and network connectivity across the facility.
+
+This project involved structured Ethernet cabling, underground optical fiber deployment, rack installation, and wireless access point configuration to ensure stable and scalable network coverage.
+
+📡 Project Breakdown
+
+1: Underground Optical Fiber Backbone
+
+- Deployed underground optical fiber cable from the Control Center to the Administrative building.
+
+- Routed the fiber safely through protective channels to prevent environmental damage.
+
+- Terminated and tested the fiber link to ensure high-speed backbone connectivity between buildings.
+
+2: Rooftop Network Distribution
+
+- Extended connectivity from the underground fiber to the Administrative building roof.
+
+- Installed Ethernet cabling from the roof down to the network rack cabinet where core equipment is organized.
+
+- Ensured proper cable routing and protection to maintain signal integrity.
+
+3: Rack Cabinet & Network Equipment Setup
+
+- Mounted and organized network devices inside the server rack cabinet.
+
+- Implemented proper patching and cable management for easy maintenance and troubleshooting.
+
+4: Wireless Access Point Installation
+
+- Installed Access Points (APs) on the ceiling to provide wireless coverage across the building.
+
+- Carefully positioned the APs to ensure stable signal distribution and optimal coverage.
+
+- Connected the APs through Ethernet cabling and PoE power delivery.
+
+5: Ethernet Cabling and Internal Wiring
+
+- Installed Ethernet cables linking network devices from the rack cabinet to the access points.
+
+- During installation we worked with the twisted internal conductors used in Ethernet cabling:
+
+ - Brown pair – carries electrical power used to power the access point.
+
+ - Red conductor – used for network signal transmission.
+
+ - Blue conductor – serves as neutral/return in the wiring arrangement.
+
+
+🛠 Tools & Equipment Used
+
+- Cable ripper / cutter for preparing Ethernet cables
+
+- Crimping tools for RJ45 termination
+
+- Gigabit PoE injectors
+
+- Wireless Access Points
+
+- Optical fiber cable
+
+- Ethernet LAN cables
+
+- Network rack cabinet
+
+📉 Outcome
+The completed deployment created a stable hybrid network infrastructure combining fiber backbone, structured cabling, and wireless networking, enabling seamless connectivity between the control unit, administrative center, and operational areas at Ebikane Farm.
+
+Projects like this demonstrate how proper cabling structure, fiber deployment, and wireless network design are essential for building reliable IT environments.
